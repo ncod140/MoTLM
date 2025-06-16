@@ -1,0 +1,17 @@
+# this is a requirements.txt file
+# It lists all the dependencies for a Python Project
+
+numpy==1.26.4
+pandas
+scikit-learn==1.5.2
+scikit-learn-intelex>=2023.2.1
+scipy>=1.10.1
+import-ipynb==0.1.4
+matplotlib
+tqdm==4.66.5
+numba>=0.60.0
+torch==2.2.2
+category-encoders==2.6.4
+feature-engine==1.8.1
+statsmodels==0.14.4
+xlrd==2.0.1
